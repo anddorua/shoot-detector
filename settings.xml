@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+<threshold type="int">8</threshold>
+<sensitivity type="int">90</sensitivity>
+<samplingRate type="int">96000</samplingRate>
+<rateDivider type="int">2</rateDivider>
+<detectorBufferSize type="int">4096</detectorBufferSize>
+<microphoneDistance type="double">24.8</microphoneDistance>
+<measurementError type="double">2.0</measurementError>
+<soundVelocity type="double">343.1</soundVelocity>
+<bitsPerSample type="int">16</bitsPerSample>
+<audioBufferSize type="int">400</audioBufferSize>
+<measuredPositive type="double">25.02</measuredPositive>
+<measuredNegative type="double">-24.3</measuredNegative>
+<samplesDir type="string">/home/andrey/IdeaProjects/ShootDetector/samples</samplesDir>
+</root>
